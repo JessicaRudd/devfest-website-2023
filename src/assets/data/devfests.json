@@ -1,5 +1,5 @@
 {
-  "name":"DevFest Jakarta",
+  "name":"DevFest ATL",
   "cover_image":"cover.png",
   "desc": {
     "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
@@ -7,19 +7,19 @@
   },
   "hashtags": [
     "DevFest2023",
-    "CommunityName"
+    "GDGATL"
   ],
-  "date": "Oct 23, 2023",
-  "time": "10 am IST",
+  "date": "Oct 31, 2023",
+  "time": "8 am EDT",
   "venue": {
-    "name": "Hotel Name",
-    "address": "23b, Morden Town",
-    "city": "",
+    "name": "Google Millennium at Midtown",
+    "address": "10 10th Street Northwest",
+    "city": "Atlanta",
     "pincode": "",
     "map": ""
   },
   "registration": {
-    "link":"https://techferment.com",
+    "link":"https://gdg.community.dev/events/details/google-gdg-atlanta-presents-dev-fest-atl-2023/",
     "status": "1"
   },
   "call_for_speakers": {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Participants",
-      "value": "500+"
+      "value": "100+"
     },
     {
       "name": "Sessions",
